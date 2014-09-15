@@ -16,7 +16,7 @@
 			<result name="two" type="chain">actiontwo</result>
 
 		</action>
-			<action name="actionotwo" class="cmc.alag.pkg.ActionTwo">
+			<action name="actiontwo" class="cmc.alag.pkg.ActionTwo">
 			<result name="success">/study.jsp</result>
 		</action>
 	</package>
