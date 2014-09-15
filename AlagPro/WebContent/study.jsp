@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>You are at Work </h2>
-
+Hello study
 </body>
 </html>

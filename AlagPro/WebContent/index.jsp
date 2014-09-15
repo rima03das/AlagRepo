@@ -7,11 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 <h3>Hello Alag Logo</h3>
-<a href="actionone">Hello</a>
-=======
-	<h3>Hello Alag Logo</h3>
 	<form action="actionone" method="get">
 		<input type="text" name="username" /> <input type="submit" />
 	</form>
