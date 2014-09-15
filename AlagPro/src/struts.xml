@@ -6,8 +6,11 @@
 
 <struts>
 	<package name="user" namespace="/" extends="struts-default">
-		<action name="actionone" class="cmc.alag.pkg.AlagActionOne">
+	
+	    	<action name="actionone" class="cmc.alag.pkg.AlagActionOne">
 			<result name="one">/info.jsp</result>
+			
+			
 		</action>
 
 	</package>

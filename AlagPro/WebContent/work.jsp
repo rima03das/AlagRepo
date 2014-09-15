@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>Hello Alag Logo</h3>
-<a href="actionone">Hello</a>
+<h2>You are at Work </h2>
 </body>
 </html>
