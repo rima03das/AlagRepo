@@ -9,12 +9,12 @@
 	
 	    	<action name="actionone" class="cmc.alag.pkg.AlagActionOne">
 			<result name="one">/info.jsp</result>
-<<<<<<< HEAD
+
 			
 			
-=======
+
 			<result name="two" type="chain">actiontwo</result>
->>>>>>> refs/remotes/origin/master
+
 		</action>
 			<action name="actionotwo" class="cmc.alag.pkg.ActionTwo">
 			<result name="success">/study.jsp</result>

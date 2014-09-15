@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
+
 <h3>Hello Alag Logo</h3>
 <a href="actionone">Hello</a>
 =======
@@ -15,6 +15,6 @@
 	<form action="actionone" method="get">
 		<input type="text" name="username" /> <input type="submit" />
 	</form>
->>>>>>> refs/remotes/origin/master
+ 
 </body>
 </html>
