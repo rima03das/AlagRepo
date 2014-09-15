@@ -12,5 +12,4 @@ public class AlagActionOne implements Action {
 
 		return "one";
 	}
-
 }
