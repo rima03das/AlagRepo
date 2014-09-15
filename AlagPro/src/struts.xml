@@ -10,7 +10,7 @@
 			<result name="one">/info.jsp</result>
 			<result name="two" type="chain">actiontwo</result>
 		</action>
-			<action name="actionotwo" class="cmc.alag.pkg.AlagActionTwo">
+			<action name="actionotwo" class="cmc.alag.pkg.ActionTwo">
 			<result name="success">/study.jsp</result>
 		</action>
 	</package>
